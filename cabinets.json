@@ -1,122 +1,20 @@
-[
-    {
-        "title":"基本信息",
-        "data":[
-            {
-                "title":"企业LOGO",
-                "subtitle":"",
-                "required":0,
-                "kind":0,
-                "canEidt":0,
-                "placeholder":"",
-                "logo":""
-            },
-            {
-                "title":"企业名称",
-                "subtitle":"",
-                "required":1,
-                "kind":1,
-                "canEdit":1,
-                "placeholder":"请选择企业名称"
-            },
-            {
-                "title":"企业简称",
-                "subtitle":"",
-                "required":1,
-                "kind":2,
-                "canEdit":1,
-                "placeholder":"请输入中英文、数字、字母"
-            },
-            {
-                "title":"所属行业",
-                "subtitle":"",
-                "required":1,
-                "kind":3,
-                "canEdit":0,
-                "placeholder":"请选择所属行业"
-            },
-            {
-                "title":"主营业务",
-                "subtitle":"",
-                "required":1,
-                "kind":4,
-                "canEdit":1,
-                "placeholder":"请输入中英文、数字、字母"
-            },
-            {
-                "title":"企业规模",
-                "subtitle":"",
-                "required":0,
-                "kind":5,
-                "canEdit":0,
-                "placeholder":"请选择企业规模"
-            }
-        ],
-    },
-    {
-        "title":"工商信息",
-        "data":[
-            {
-                "title":"注册日期",
-                "subtitle":"",
-                "required":0,
-                "kind":6,
-                "canEdit":0,
-                "placeholder":""
-            },
-            {
-                "title":"注册地址",
-                "subtitle":"",
-                "required":0,
-                "kind":7,
-                "canEdit":0,
-                "placeholder":""
-            },
-            {
-                "title":"注册资金",
-                "subtitle":"",
-                "required":0,
-                "kind":8,
-                "canEdit":0,
-                "placeholder":""
-            },
-            {
-                "title":"企业类型",
-                "subtitle":"",
-                "required":0,
-                "kind":9,
-                "canEdit":0,
-                "placeholder":""
-            },
-            {
-                "title":"企业状态",
-                "subtitle":"",
-                "required":0,
-                "kind":10,
-                "canEdit":0,
-                "placeholder":""
-            }
-        ]
-    },
-    {
-        "title":"认证信息",
-        "data":[
-            {
-                "title":"法人",
-                "subtitle":"",
-                "required":0,
-                "kind":11,
-                "canEdit":0,
-                "placeholder":""
-            },
-            {
-                "title":"统一社会信用代码",
-                "subtitle":"",
-                "required":0,
-                "kind":12,
-                "canEdit":0,
-                "placeholder":""
-            },
-        ]
-    }
-]
+{
+    "constellation": "处女座",
+    "lunar", "辛丑年 丁酉月 戊午日 【属牛】 周二 第37周"
+    "red" : [ "O", "A", "B", "C", "D", "E", "F", "G" ],
+    "green" : [ "1", "2", "3", "4", "5", "6", "7" ],
+    "daily" : [
+        "人生是自己的，不要活在别人的眼神和口水里。不是所有的言论都需要别人理解，不是所有的选择都需要别人支持",
+        "任何时候，都不要瞧不起别人。鸟活着时，吃蚂蚁；鸟死后，蚂蚁吃鸟。一棵树可以制成一百万根火柴，烧光一百万棵树只需一根火柴。所以不要瞧不起任何人！你瞧不起别人时，只不过别人不和你计较",
+        "用人情做出来的朋友只是暂时的，用人格吸引来的朋友才是长久的。要知道，丰富自己比取悦他人更有力量",
+        "有些事就是不值得被原谅，跟大不大度没有关系，各有各的底线，做错了就应该考虑为自己的错误付出代价",
+        "信任就是一把刀，你把它给了别人，他就有了两个选择，捅你或者爱你保护你",
+        "有人说，这世间有两种浪漫，一种是相濡以沫，另一种是相忘于江湖",
+        "最好的爱人一定能在时光里相守，在困苦中相牵，在老去中相望"
+    ],
+    "sentence" : [
+        "There's no better way to overpower a trickle of doubt than with a flood of naked truth.\n如洪水般的事实是打破丝丝疑虑的最好方式。",
+        "There's no better way to overpower a trickle of doubt than with a flood of naked truth.\n如洪水般的事实是打破丝丝疑虑的最好方式。",
+        "There's no better way to overpower a trickle of doubt than with a flood of naked truth.\n如洪水般的事实是打破丝丝疑虑的最好方式。"
+    ]
+}
