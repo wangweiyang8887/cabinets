@@ -1,5 +1,27 @@
 {
     "constellation": "处女座",
+    "lottery": [
+        {
+            "lottery_id": "ssq",
+            "lottery_name": "双色球",
+            "lottery_res": "11,15,28,24,26,32,09",
+            "lottery_no": "21108",
+            "lottery_date": "2021-09-21",
+            "lottery_exdate": "2021-11-21",
+            "lottery_sale_amount": "352,015,830",
+            "lottery_pool_amount": "578,094,167",
+        },
+        {
+            "lottery_id": "dlt",
+            "lottery_name": "超级大乐透",
+            "lottery_res": "11,14,29,31,32,11,12",
+            "lottery_no": "21110",
+            "lottery_date": "2021-09-22",
+            "lottery_exdate": "2021-11-22",
+            "lottery_sale_amount": "352,015,830",
+            "lottery_pool_amount": "578,094,167",
+        },
+    ],
     "lunar" : " 九月 星期四 辛丑年八月初十",
     "red" : [
         "诸事不宜",
