@@ -1,5 +1,22 @@
 {
     "constellation": "天蝎座",
+    "questions": [
+        "What is the most challenging thing you have ever done in your life?",
+        "If you could live in any era, which one would you choose and why?",
+        "How do you know the answers to my questions?",
+        "Can you translate this sentence into Spanish?",
+        "If you could change one thing about the world, what would it be and why?",
+        "What is the most important lesson you have learned in life so far?",
+        "Can you recommend a good book to read?",
+        "How can I improve my memory?",
+        "Can you help me solve this math problem?",
+        "What are some effective ways to manage stress?",
+        "What is the most effective way to study for an exam?",
+        "Can you give me some tips for improving my writing?",
+        "What is the best way to start a business?",
+        "What is the meaning of life?",
+        "What is the best way to learn a new language?"
+    ],
     "lottery": [
         {
             "lottery_id": "ssq",
